@@ -1,0 +1,20 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[[params.services.remolque]]
+icon = "fa-diamond"
+title = "Remolques"
+description = "Remolque bla bla bla."
+
+[[params.services.enganches]]
+icon = "fa-diamond"
+title = "Enganches (Hitch)"
+description = "Enganches bla bla bla."
+
+[[params.services.grua]]
+icon = "fa-diamond"
+title = "Grua para Motos"
+description = "Grua bla bla bla."
+
+
