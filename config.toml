@@ -4,7 +4,7 @@ title = "Remolques y Servicios"
 
 # Navigation
 [params.navigation]
-brand = "Hugo Creative Theme"
+brand = "Remolques y Servicios"
 
 [params.navigation.links]
 about     = "About"
@@ -16,7 +16,7 @@ contact   = "Contact"
 # Hero section
 [params.hero]
 # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-slogan     = "Your awesome slogan"
+slogan     = "Remolques y Servicios"
 subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
 buttonText = "Find out more"
 
