@@ -1,6 +1,6 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Remolques y Servicios"
 
 [[params.services.remolque]]
 icon = "fa-diamond"
